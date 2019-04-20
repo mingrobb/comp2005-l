@@ -4,6 +4,8 @@ MUN COMP2005 Winter 2018, Team L group project
 
 _NOTE_: If you are not doing so already, you can read a preformatted version for this README on the project's repository: https://github.com/COMP2005-L/comp2005-l
 
+## Use: python, flask, sqlite, jinja2
+
 ## Installation
 To install the provided package, first ensure that `wheel` is installed (you can install it using `pip install wheel`)
 
